@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ethanding0925/ethanding0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ethanding0925/ethanding0925.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
